@@ -1,9 +1,7 @@
 #### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-#### Software Engineer Trainee | BSIT (Graduating 2025)
+#### Software Engineer Trainee @ [Passafund](https://passafund.com/) | BSIT (Graduating 2025)
 
-Software Engineering Trainee at [Passafund](https://passafund.com/);<br>
-Developing innovative solutions and dynamic web platforms.
 
 - ⚙️ I use: `.js`, `.vue`, `.jsx`, `.css`, `.php`, `.laravel`
 - 🚀 Passionate about **Frontend Development** and expanding my expertise in **Backend Development**
