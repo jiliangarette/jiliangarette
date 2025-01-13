@@ -9,7 +9,7 @@
   - [Passafun](https://play.passafund.com/) – Dynamic web application for quizzes using `Laravel`, `Vue`, and `DigitalOcean`.  
   - [Passaquiz Studio](https://games.studio.passafund.com/) – CMS for creating and managing quizzes.  
 
-- 🎯 Current Focus and Interests: `Integrating AI`, `iskolar startup`, **NUXT**, **Backend Development**, **PostgreSQL**
+- 🎯 Current Focus and Interests: `Integrating AI`, `iskolar startup`, **Nuxt**, **Backend Development**, **PostgreSQL**
 
 <details>
 <summary>⚡️ More info</summary>
