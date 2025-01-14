@@ -15,7 +15,5 @@
 <br />
 
 - 🎓 **Education**: BS in Information Technology, graduating in 2025  
-- 💻 **Technologies**: Laravel, Vue.js, ReactJS, Tailwind CSS, PostgreSQL, MySQL  
-- 🌟 **Hobbies**: Exploring AI integration, learning new technologies, and building impactful projects.  
 
 </details>
