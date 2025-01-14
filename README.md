@@ -7,7 +7,6 @@
 - 🚀 Passionate about **Frontend Development** and expanding my expertise in **Backend Development**
 - 🌟 Projects:  
   - [Passafun](https://play.passafund.com/) – Dynamic web application for quizzes using `Laravel`, `Vue`, and `DigitalOcean`.  
-  - [Passaquiz Studio](https://games.studio.passafund.com/) – CMS for creating and managing quizzes.  
 
 - 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, **Nuxt**, **Backend Development**, **PostgreSQL**
 
