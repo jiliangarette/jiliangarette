@@ -5,7 +5,7 @@
 
 - ⚙️ I use: `.js`, `.vue`, `.jsx`, `.css`, `.php`, `.laravel`
 - 🚀 Passionate about **Frontend Development** and expanding my expertise in **Backend Development**
-- 🌟 Projects:  
+- 🌟 Projects I've been part of:  
   - [Passafun](https://play.passafund.com/) – Dynamic web application for quizzes using `Laravel`, `Vue`, and `DigitalOcean`.  
 
 - 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, **Nuxt**, **Backend Development**, **PostgreSQL**
