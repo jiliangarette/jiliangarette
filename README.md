@@ -2,7 +2,7 @@
 #### Software Engineer Trainee | BSIT (Graduating 2025)
 
 - ⚙️ I use: `.js`, `.vue`, `.jsx`, `.css`, `.php`, `.laravel`
-- 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, **Nuxt**, **Reactjs**, **Backend Development**, **PostgreSQL**
+- 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, `Nuxt`, `Reactjs`, `Backend Development`, `PostgreSQL`
 - 🌟 Projects I've been part of:  
   - [Passafun](https://play.passafund.com/) – Dynamic web application for quizzes using `Laravel`, `Vue`, and `DigitalOcean`.  
 
