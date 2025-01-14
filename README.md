@@ -8,7 +8,7 @@
 - 🌟 Projects I've been part of:  
   - [Passafun](https://play.passafund.com/) – Dynamic web application for quizzes using `Laravel`, `Vue`, and `DigitalOcean`.  
 
-- 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, **Nuxt**, **Backend Development**, **PostgreSQL**
+- 🎯 Current Focus and Interests: `Integrating AI`, `Iskolar startup`, **Nuxt**, **Reactjs**, **Backend Development**, **PostgreSQL**
 
 <details>
 <summary>⚡️ More info</summary>
